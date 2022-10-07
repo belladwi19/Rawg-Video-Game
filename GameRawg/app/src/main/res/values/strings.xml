@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">GameRawg</string>
+    <string name="splash_screen">---RAWG---</string>
+    <string name="rawg">RAWG</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="reload">Reload</string>
+    <string name="failed">Failed</string>
+    <string name="nama">Nama</string>
+    <string name="rating">rating</string>
+    <string name="cancel">Cancel</string>
+    <string name="let_s_go"><![CDATA[Let\'s Go >>>]]></string>
+</resources>
